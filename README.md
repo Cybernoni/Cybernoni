@@ -2,15 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/)
+- <b> Cyber Essentials self-assessment for an SME based in Warwickshire </b>
 - <b>TryHackme Training and Labs</b>
   - [Tryhackme Labs](https://tryhackme.com/p/GiftedMike ) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>SOC Related Projects</b>
+  - [Malware Traffic analysis using Wireshark- Analysed and completed tasks associated with infected PCAPs]([https://github.com/joshmadakor1/Sentinel-Lab](https://www.malware-traffic-analysis.net/training-exercises.html)
+  - [Endpoint Detection and Response using Velociraptor]
+    
+ 
 
 <h2>📄 Certifications</h2>
 
@@ -28,13 +27,11 @@
 - [Member - Project Management Institute](https://www.pmi.org)  
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Favorite CyberSecurity YouTube Videos</h2>
 
-- [Capture The Flag Walkthrough](https://www.credly.com/users/michael-segun-ojo/badges)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to GRC Like A Boss with Erika McDuffie(C#)](https://www.youtube.com/watch?v=0CGPR-F_foc&t=885s)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [IppSec Channel - Hack The Box Writeups](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [LiveOverflow - Explore weird machines...](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [GynvaelEN - Podcasts about CTFs, computer security, programing and similar things.](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
