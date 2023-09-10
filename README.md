@@ -13,10 +13,12 @@
 
 <h2>📄 Certifications</h2>
 
+- [Mitigate Cyber - Cyber Essentials Consultancy](https://www.credly.com/users/michael-segun-ojo/badges)
+-[ISO/IEC 27001 Information Security Associate™](https://www.skillfront.com/Badges/06386609593347) 
 - [SC- 900 - Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/users/michael-segun-ojo/badges)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/users/michael-segun-ojo/badges)
 - [CertNexus CyberSAFE™ 410 Credential](https://www.credly.com/users/michael-segun-ojo/badges)
-- [Mitigate Cyber - Cyber Essentials Consultancy](https://www.credly.com/users/michael-segun-ojo/badges)
+- [Malware Wireshark Expert](https://app.letsdefend.io/my-badges/detail/4d6c5326-0d29-4b7a-9dd2-cdb10d04850d)
 - [Project Management Professional (PMP)](https://www.credly.com/users/michael-segun-ojo/badges)
 - [Certificate in Information Security Management Principles (CISMP)](https://www.credly.com/users/michael-segun-ojo/badges)
 
