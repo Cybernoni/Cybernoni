@@ -6,8 +6,8 @@
 - <b>TryHackme Training and Labs</b>
   - [Tryhackme Labs](https://tryhackme.com/p/GiftedMike ) <b><i></b></i>
 - <b>SOC Related Projects</b>
-  - [Malware Traffic analysis using Wireshark- Analysed and completed tasks associated with infected PCAPs]([https://github.com/joshmadakor1/Sentinel-Lab](https://www.malware-traffic-analysis.net/training-exercises.html)
-  - [Endpoint Detection and Response using Velociraptor]
+  - Malware Traffic analysis using Wireshark- Analysed and completed tasks associated with infected PCAPs [(https://www.malware-traffic-analysis.net/training-exercises.html)]
+  - Endpoint Detection and Response using Velociraptor
     
  
 
